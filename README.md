@@ -1,6 +1,6 @@
 
 🎓 B.Tech ECE @ IIT Guwahati | 🔍 Aspiring ML Engineer | 💻 DSA & CP enthusiast  
-🏆 AIR 3696 JEE Adv | Cultural Board OC @ IITG | Event Architect @ Alcheringa
+🏆 AIR 3696 JEE Adv | Cultural Board OC @ IITG 
 
 ---
 
@@ -12,4 +12,4 @@
 ---
 
 📫 Reach me: [c.bulbule@iitg.ac.in](mailto:c.bulbule@iitg.ac.in)  
-Resume,📊 GitHub Stats, LeetCode, & ML Portfolio coming soon!
+[Resume](https://github.com/rtcpcx/rtcpcx/blob/main/BulbulePranavC_Resume.pdf),📊 GitHub Stats, LeetCode, & ML Portfolio coming soon!
