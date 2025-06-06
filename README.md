@@ -12,5 +12,4 @@
 ---
 
 📫 Reach me: [c.bulbule@iitg.ac.in](mailto:c.bulbule@iitg.ac.in)  
-🌐 Resume: 
-📊 GitHub Stats, LeetCode, & ML Portfolio coming soon!
+Resume,📊 GitHub Stats, LeetCode, & ML Portfolio coming soon!
