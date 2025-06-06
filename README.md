@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**rtcpcx/rtcpcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE @ IIT Guwahati | 🔍 Aspiring ML Engineer | 💻 DSA & CP enthusiast  
+🏆 AIR 3696 JEE Adv | Cultural Board OC @ IITG | Event Architect @ Alcheringa
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+- ✅ Solving Striver A2Z Sheet (100+/455)
+- 🤖 Building ML Projects with PyTorch & Pandas
+- 📂 Creating a public learning trail on GitHub
+
+---
+
+📫 Reach me: [c.bulbule@iitg.ac.in](mailto:c.bulbule@iitg.ac.in)  
+🌐 Resume: 
+📊 GitHub Stats, LeetCode, & ML Portfolio coming soon!
